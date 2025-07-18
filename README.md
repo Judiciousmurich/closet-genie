@@ -130,10 +130,6 @@ Once both servers are running:
 | PUT    | /api/clothing-items/{id} | Update clothing item |
 | DELETE | /api/clothing-items/{id} | Delete clothing item |
 
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
 ---
 
 ### Happy Coding! 🚀
